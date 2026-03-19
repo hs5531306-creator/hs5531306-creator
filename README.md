@@ -1,10 +1,14 @@
-# Hi, I'm Suryansh Singh 👋
+# Hi, I'm Suryansh Singh 👋 
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Data%20Analytics%20%7C%20Business%20Intelligence&fontSize=30&fontColor=ffffff)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,kaggle,numpy,googlecolab,jupyter,excel,jira,github,tableau,pandas,matplotlib,mysql,powerpoint,pbi)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MBA+Digital+Business+@+IIIT+Lucknow;Data+Analytics+%7C+SQL+%7C+Power+BI;Turning+Data+into+Business+Decisions;Building+Real-World+Data+Projects)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Suryansh%20Singh!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=MBA%20(Digital%20Business)%20|%20Business%20%26%20Data%20Analytics&descAlignY=50)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Business+Analyst;Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Pre-Sales+%26+Strategy+Consulting;Turning+Data+into+Insights)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/Harb1nger001/harb1nger001/main/assets/hello.gif" width="500"/>
 
 </div>
 
@@ -15,7 +19,7 @@
 🎓 MBA (Digital Business) @ IIIT Lucknow  
 📊 Data Analytics & Business Intelligence Enthusiast  
 💡 Passionate about solving real-world problems using data & AI  
-📈 Experience in analytics, pre-sales strategy & smart city solutions  
+📈 Experience in Pre-Sales Strategy, AI Consulting & Smart City Projects  
 
 ---
 
@@ -44,15 +48,15 @@
 - Built revenue models & pricing strategies  
 - Conducted benchmarking of global AI cities  
 - Analyzed AI adoption across sectors  
-- Assisted in implementation planning & risk analysis  
+- Assisted in implementation planning & risk mitigation  
 - Created executive-ready pre-sales documentation  
 
 ---
 
 ## 📂 Projects
 
-### 📊 Sales, Customer & Product Analysis (SQL)
-- Performed trend analysis using window functions  
+### 📊 Sales, Customer & Product Performance Analysis (SQL)
+- Monthly & yearly trend analysis using window functions  
 - Built KPIs: AOV, recency, segmentation  
 - Identified top & underperforming products  
 
@@ -65,8 +69,8 @@
 
 ---
 
-### 🌍 Global COVID-19 Analysis (SQL)
-- Analyzed 5M+ records  
+### 🌍 Global COVID-19 Impact Analysis (SQL)
+- Analyzed 5M+ records using CTEs & window functions  
 - Derived infection & death KPIs  
 - Identified high-risk regions  
 
@@ -75,7 +79,7 @@
 ## 📜 Certifications
 
 - IBM SkillsBuild – Data Analytics  
-  *(Python | SQL | Power BI | BI | Stats)*  
+(Python | SQL | Power BI | Statistical Analysis | BI)
 
 ---
 
@@ -89,13 +93,13 @@
 
 ## 📫 Connect With Me
 
-- 📧 hs5531306@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/suryansh-singh-8b872b203/  
+📧 hs5531306@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
 
 ---
 
 <div align="center">
 
-⭐ *"Turning Data into Decisions"*
+⭐ Turning Data into Business Decisions
 
 </div>
